@@ -1,6 +1,5 @@
 require_relative '../solver'
 
-
 RSpec.describe Solver do
   subject(:solver) { described_class.new }
 
